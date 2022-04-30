@@ -4,7 +4,7 @@
 <br/>
 
 
-Hey, I'm Aestra, a Web Developer 🚀
+Hey, I'm Riciu, a Web Developer 🚀
 
 -----------------
 
