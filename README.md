@@ -23,7 +23,7 @@ Hey, I'm Riciu, a Web Developer 🚀
 - 💬 Ask me about  Anything related to **Web development**,
 - 😄 Pronouns :  **He/Him.**,
 - 😌 favorite anime: **Death note**,
-- 🎵 favorite song: **Believer**,
+- 🎵 favorite song: **Mixed**,
 - 👤 role model: **sundar pichai**,
 - 💥 favorite superhero: **doctor strange ( marvel )**,
 - 💫 hackathon won: **one**,
