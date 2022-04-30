@@ -79,6 +79,8 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 
 
-
-
+-------------
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Riciuuu&theme=github)
 
