@@ -34,7 +34,7 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 ## DISCORD STATUS
 
- <p align="center"> <img align="center" src='https://discord.c99.nl/widget/theme-3/757844447886311454.png'> </p>
+ <p align="center"> <img align="center" src='https://discord.c99.nl/widget/theme-3/306794322567888896.png'> </p>
 
 --------------
 
@@ -72,9 +72,9 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 **Stats:**  
 
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AestraDev&show_icons=false&theme=tokyonight"> </p>
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riciuuu&show_icons=false&theme=tokyonight"> </p>
 
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile"> </p>
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riciuuu&theme=tokyonight&hide=batchfile"> </p>
 
 
 
