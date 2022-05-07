@@ -10,7 +10,7 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 **How to Reach Me!**
 
-[![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Riciuuu) [![Mail Badge](https://img.shields.io/badge/-@ARiciuuu-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/Riciuuu)  [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/Riciuuu)
+[![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Riciuuu) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/Riciuuu)  [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/Riciuuu)
 
 -------------------
 
@@ -68,18 +68,11 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 
 **Stats:**  
-
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riciuuu&show_icons=false&theme=tokyonight"> </p>
-
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riciuuu&theme=tokyonight&hide=batchfile"> </p>
-
-
-
--------------
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Riciuuu&theme=github)
+ 
+ <div align="center">
+<div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=riciuuu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=riciuuu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=riciuuu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 
 -------------
