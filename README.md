@@ -10,7 +10,7 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 **How to Reach Me!**
 
-[![Mail Badge](https://img.shields.io/badge/-AestraTech-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Aestra_dev) [![Mail Badge](https://img.shields.io/badge/-@Aestra_Dev-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/AestraDev)  [![Mail Badge](https://img.shields.io/badge/-@AestraDev-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/aestra.dev)
+[![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Riciuuu) [![Mail Badge](https://img.shields.io/badge/-@ARiciuuu-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/Riciuuu)  [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/Riciuuu)
 
 -------------------
 
@@ -22,10 +22,7 @@ Hey, I'm Riciu, a Web Developer 🚀
 - 🤔 I’m looking for help with  **My open source projects**,
 - 💬 Ask me about  Anything related to **Web development**,
 - 😄 Pronouns :  **He/Him.**,
-- 😌 favorite anime: **Death note**,
 - 🎵 favorite song: **Mixed**,
-- 👤 role model: **sundar pichai**,
-- 💥 favorite superhero: **doctor strange ( marvel )**,
 - 💫 hackathon won: **one**,
 - ⚡ Fun fact : **No one is perfect :)**
 
