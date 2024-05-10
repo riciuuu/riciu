@@ -12,6 +12,9 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCHvdoq_3hfsmpnntLqdsMmA) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Riciuuu) [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white)](https://mobile.twitter.com/Riciuuu)  [![Mail Badge](https://img.shields.io/badge/-@Riciuuu-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/Riciuuu)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://paypal.me/Riciu?country.x=RO&locale.x=ro_RO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="letgetsomeu" /></a></p><br><br>
+
 -------------------
 
 
