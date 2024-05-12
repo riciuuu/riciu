@@ -34,7 +34,9 @@ Hey, I'm Riciu, a Web Developer 🚀
 
 ## DISCORD STATUS
 
- <p align="center"> <img align="center" src='https://discord.c99.nl/widget/theme-3/306794322567888896.png'> </p>
+<p align="center">
+  <a href="https://discord.com/users/306794322567888896/"><img src="https://discord.c99.nl/widget/theme-3/306794322567888896.png" /></a>
+</p>
 
 --------------
 
